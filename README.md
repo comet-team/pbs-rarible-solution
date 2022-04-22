@@ -12,7 +12,7 @@ https://github.com/comet-team/wish-graph-web
 https://github.com/comet-team/wish-graph-model
 
 Сайт крутится тут (Скорее всего упал):
-http://5.63.159.42:8081/
+http://5.63.159.42:3000/
 
 Содержание
 ---
