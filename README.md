@@ -11,7 +11,8 @@ https://github.com/comet-team/wish-graph-web
 Сервер (Python + Flask):
 https://github.com/comet-team/wish-graph-model
 
-Сайт крутится тут:
+Сайт крутится тут(Скорее всего упал):
+http://5.63.159.42:8081/
 
 Мобилка доступна для скачивания тут:
 
