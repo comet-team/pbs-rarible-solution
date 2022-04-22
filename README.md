@@ -2,7 +2,7 @@ Wish Graph
 ===
 Рекомендуем NFT на основе графа владения
 
-Мобильное приложение на Android (Xamarin):
+Мобильное приложение на Android (Kotlin):
 https://github.com/comet-team/wish-graph-mobile
 
 Фронт (Node.js):
@@ -11,7 +11,7 @@ https://github.com/comet-team/wish-graph-web
 Сервер (Python + Flask):
 https://github.com/comet-team/wish-graph-model
 
-Сайт крутится тут (Скорее всего упал):
+Сайт крутится тут:
 http://5.63.159.42:3000/
 
 Содержание
