@@ -22,6 +22,11 @@ https://disk.yandex.ru/d/JZ2rMAYA3dlcBQ
 + [**Проблема**](#проблема)  
 + [**Решение**](#решение) 
 + [**Архитектура**](#архитектура) 
+  + [**API сервер**](#api-сервер)
+  + [**Использование Rarible Protocol**](#использование-rarible-protocol)
+  + [**Масштабирование**](#масштабирование)
+  + [**Сайт**](#сайт)
+  + [**Мобильное приложение**](#мобильное-приложение) 
 + [**Демонстрация решения**](#демонстрация-решения)
 + [**Направления дальнейшего развития**](#направления-дальнейшего-развития)  
 + [**Road map**](#road-map)  
@@ -76,10 +81,13 @@ https://disk.yandex.ru/d/JZ2rMAYA3dlcBQ
 
 <img src="https://github.com/comet-team/wish-graph-description/blob/main/img/API%20structure.png" width="300" />
 
-### API
+### API сервер
+[Репозиторий](https://github.com/comet-team/wish-graph-model)
+
 На данный момент сервер предоставляет только один API эндпоинт для получения списка рекомендованных NFT:
 
-### GET http://5.63.159.42:8081/user_recommend/<wallet_token>
+**GET http://5.63.159.42:8081/user_recommend/<wallet_token>**
+
 Возвращает список NFT которые можно рекомендовать пользователю
 
 **Parameters**
@@ -106,10 +114,19 @@ https://disk.yandex.ru/d/JZ2rMAYA3dlcBQ
 ]
 ```
 
-### Интеграция с Rarible Protocol
+### Использование Rarible Protocol
 Сервер использует следующие эндпоинты, предоставляемые API от Rarible:
 + https://api.rarible.com/protocol/v0.1/ethereum/nft/items/byCreator
 + https://api.rarible.org/v0.1/items/
+
+### Масштабирование
+
+### Сайт
+[Репозиторий](https://github.com/comet-team/web)
+
+### Мобильное приложение
+[Репозиторий](https://github.com/comet-team/wish-graph-mobile)
+Приложение под Android на Kotlin для просмотра рекомендованных NFT по адресу кошелька.
 
 Демонстрация решения
 ---
