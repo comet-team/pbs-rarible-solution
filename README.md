@@ -8,8 +8,12 @@ https://github.com/comet-team/wish-graph-mobile
 Фронт (Node.js):
 https://github.com/comet-team/wish-graph-web
 
-Сервер (Python + Flask):
+ML (Python):
 https://github.com/comet-team/wish-graph-model
+(ветка ML_Factorization)
+
+Сервер (Java + Spring):
+https://github.com/comet-team/wish-graph-back 
 
 Сайт крутится тут:
 http://5.63.159.42:3000/
