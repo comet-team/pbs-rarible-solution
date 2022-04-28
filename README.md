@@ -135,6 +135,7 @@ https://disk.yandex.ru/d/3W75r0KiT3tDrg
 
 ### Мобильное приложение
 [Репозиторий](https://github.com/comet-team/wish-graph-mobile)
+
 Приложение под Android на Kotlin для просмотра рекомендованных NFT по адресу кошелька.
 
 Демонстрация решения
