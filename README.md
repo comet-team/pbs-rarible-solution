@@ -144,6 +144,8 @@ https://disk.yandex.ru/d/3W75r0KiT3tDrg
 
 [Приложение](https://disk.yandex.ru/i/iVbhsky4qRDbBg)
 
+<img src="https://github.com/comet-team/wish-graph-description/blob/main/img/Wish%20Graph%20Mobile%20Screens.png" width="700" />
+
 Направления дальнейшего развития
 ---
 Идеи развития проекта:
