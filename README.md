@@ -16,7 +16,7 @@ https://github.com/comet-team/wish-graph-model
 https://github.com/comet-team/wish-graph-back 
 
 Сайт крутится тут:
-http://5.63.159.42:3000/
+http://185.46.8.253:3000
 
 Приложение можно скачать тут: 
 https://disk.yandex.ru/d/3W75r0KiT3tDrg
