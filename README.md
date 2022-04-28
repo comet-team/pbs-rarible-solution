@@ -24,7 +24,6 @@ https://disk.yandex.ru/d/3W75r0KiT3tDrg
 + [**Архитектура**](#архитектура) 
   + [**API сервер**](#api-сервер)
   + [**Использование Rarible Protocol**](#использование-rarible-protocol)
-  + [**Масштабирование**](#масштабирование)
   + [**Машинное обучение**](#машинное-обучение)
   + [**Сайт**](#сайт)
   + [**Мобильное приложение**](#мобильное-приложение) 
@@ -138,7 +137,7 @@ https://disk.yandex.ru/d/3W75r0KiT3tDrg
 
 Демонстрация решения
 ---
-[Сайт](https://disk.yandex.ru/i/3QMd8iBouwYQlw)
+[Сайт](https://disk.yandex.ru/i/UZQz4nIAIxrddg)
 
 [Приложение](https://disk.yandex.ru/i/iVbhsky4qRDbBg)
 
