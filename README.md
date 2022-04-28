@@ -15,7 +15,7 @@ https://github.com/comet-team/wish-graph-model
 http://5.63.159.42:3000/
 
 Приложение можно скачать тут: 
-https://disk.yandex.ru/d/JZ2rMAYA3dlcBQ
+https://disk.yandex.ru/d/3W75r0KiT3tDrg
 
 Содержание
 ---
